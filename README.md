@@ -1,0 +1,1 @@
+Template for a symfony 5 project running on Docker.
